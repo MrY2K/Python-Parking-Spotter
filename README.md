@@ -25,6 +25,12 @@ You will need to have Python installed, along with the following libraries:
 *   OpenCV (`opencv-python`)
 *   NumPy (`numpy`)
 *   Ultralytics (`ultralytics`)
+![Python](https://commons.wikimedia.org/wiki/File:Python-logo-notext.svg)
+![OpenCv](https://en.wikipedia.org/wiki/OpenCV)
+![NumPy](https://neuraspike.com/blog/simple-walk-through-with-numpy-for-data-science/)
+
+
+
 
 You can install them using pip:
 ```bash
